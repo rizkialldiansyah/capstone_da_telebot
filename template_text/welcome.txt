@@ -1,0 +1,14 @@
+Hello *${FULL_NAME}*, I can help you to provide a report on Facebook daily ads for different marketing campaigns.
+
+You can control me by sending these commands:
+
+*Main Functionality*
+/summary - Generate text report for selected campaign ID
+/plot - Visualize report per age group for selected campaign ID
+
+*Bonus Functionality*
+/webscraping - Visualize the report of the results from the Kalibrr website web scraping capstone project. (Please select whether you are working from office (WFO) or working from home (WFH) to view the analyzed data report)
+
+*Information*
+/help - List of available commands
+/about - About me
