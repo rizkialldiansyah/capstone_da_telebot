@@ -1,3 +1,7 @@
+# Penjelasan
+Capstone project algoritma dengan membuat chatbot yang dapat memberikan hasil analisis data berupa text dan juga visualisasi data. pada project ini berfokus pada Exploratory Data Analyst dan Visualisasi Data.
+Selain itu project ini juga saya gabungkan dengan project capstone lainnya yaitu web scraping, oleh karenanya pada capstone yang sebenarnya hanya perlu mengerjakan salah satu saja. disini saya mengkombinasikan dua project yang sebenarnya dapat berkisinambungan.
+
 # Telegram Chatbot
 
 This is developed as one of [Algoritma Academy](https://algorit.ma/) Data Analytics Specialization Capstone Projects. The deliverable of this project is a Python script to create a Telegram chatbot using `telebot` package. We will also deploy the chatbot to [Railway](https://railway.app/) and use `Flask` to set up the backend application.
